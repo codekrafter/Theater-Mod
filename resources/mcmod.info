@@ -1,0 +1,16 @@
+[
+{
+  "modid": "theaterid",
+  "name": "The Theater Mod",
+  "description": "Codekrafter's Theater Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Codekrafter"],
+  "credits": "The Forge And FML Guys, For The Wonderful Forge API, And MrCrayfish, For His 1.8 Modding Tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
