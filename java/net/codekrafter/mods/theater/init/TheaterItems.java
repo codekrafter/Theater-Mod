@@ -14,7 +14,7 @@ public class TheaterItems
 
     public static void init()
     {
-	test_item = new Item().setUnlocalizedName("test_item").setCreativeTab(TheaterMod.stage_tab);
+	test_item = new Item().setUnlocalizedName("test_item");
     }
 
     public static void register()
