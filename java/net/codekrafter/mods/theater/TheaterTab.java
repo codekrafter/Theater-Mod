@@ -10,7 +10,8 @@ public class TheaterTab extends CreativeTabs
     public TheaterTab(String label)
     {
 	super(label);
-	//this.setBackgroundImageName("tutorial.png");
+	this.setBackgroundImageName("tutorial.png");
+	this.hasSearchBar();
     }
 
     @Override

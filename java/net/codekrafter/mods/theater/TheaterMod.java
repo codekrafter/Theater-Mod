@@ -32,6 +32,7 @@ public class TheaterMod
     public void init(FMLInitializationEvent event)
     {
 	proxy.registerRenders();
+	System.out.println("CURRENT VERSIONS EASTER EGG:" + " " + Reference.EASTER_EGG);
     }
 
     @EventHandler

@@ -1,8 +1,8 @@
-//item.test_item.name=Test Item
-tile.stage_top.name=Top Stage Module
-tile.stage.name=Stage Module
+item.test_item.name=Test Item
+tile.stage_top.name=Half Stage Block
+tile.stage.name=Stage Block
 tile.curtainb.name=Curtain Batten
 tile.curtain.name=Curtain
-tile.truss.name=Curtain
+tile.truss.name=Truss
 
-itemGroup.theater_tab=Theater Mod: Stage Parts
+itemGroup.theater_tab=Theater Mod: Stage Module
